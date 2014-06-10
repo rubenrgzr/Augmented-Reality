@@ -1,0 +1,1395 @@
+termino siftExtractor
+Se detectaron 692 keypoints.
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 211 keypoints T.
+SIFT - Se emparejaron 692
+min_dist35.5668
+max_dist399.979
+Se ignoraron 137 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 97
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 226 keypoints T.
+SIFT - Se emparejaron 692
+min_dist36.4692
+max_dist399.885
+Se ignoraron 153 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 108
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 221 keypoints T.
+SIFT - Se emparejaron 692
+min_dist42.8719
+max_dist399.976
+Se ignoraron 149 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 102
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 215 keypoints T.
+SIFT - Se emparejaron 692
+min_dist35.5668
+max_dist399.964
+Se ignoraron 141 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 97
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 228 keypoints T.
+SIFT - Se emparejaron 692
+min_dist36.4006
+max_dist399.891
+Se ignoraron 146 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 110
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 225 keypoints T.
+SIFT - Se emparejaron 692
+min_dist42.6966
+max_dist399.712
+Se ignoraron 144 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 105
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 211 keypoints T.
+SIFT - Se emparejaron 692
+min_dist35.5668
+max_dist399.979
+Se ignoraron 141 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 97
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 234 keypoints T.
+SIFT - Se emparejaron 692
+min_dist37.2827
+max_dist399.86
+Se ignoraron 104 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 114
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 260 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.7797
+max_dist399.877
+Se ignoraron 102 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 139
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 260 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.1327
+max_dist399.754
+Se ignoraron 95 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 145
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 229 keypoints T.
+SIFT - Se emparejaron 692
+min_dist37.2827
+max_dist399.86
+Se ignoraron 99 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 115
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 261 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.7797
+max_dist399.849
+Se ignoraron 86 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 142
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 262 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.1327
+max_dist399.592
+Se ignoraron 93 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 147
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 234 keypoints T.
+SIFT - Se emparejaron 692
+min_dist37.2827
+max_dist399.86
+Se ignoraron 90 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 114
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 221 keypoints T.
+SIFT - Se emparejaron 692
+min_dist31.5119
+max_dist399.674
+Se ignoraron 108 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 117
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 255 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.1774
+max_dist399.175
+Se ignoraron 89 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 138
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 244 keypoints T.
+SIFT - Se emparejaron 692
+min_dist16.7929
+max_dist399.45
+Se ignoraron 98 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 141
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 224 keypoints T.
+SIFT - Se emparejaron 692
+min_dist31.5119
+max_dist399.985
+Se ignoraron 109 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 116
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 250 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.1774
+max_dist399.754
+Se ignoraron 99 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 141
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 252 keypoints T.
+SIFT - Se emparejaron 692
+min_dist16.8226
+max_dist399.951
+Se ignoraron 92 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 138
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 221 keypoints T.
+SIFT - Se emparejaron 692
+min_dist31.5119
+max_dist399.985
+Se ignoraron 102 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 116
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 225 keypoints T.
+SIFT - Se emparejaron 692
+min_dist31.5119
+max_dist399.967
+Se ignoraron 98 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 112
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 246 keypoints T.
+SIFT - Se emparejaron 692
+min_dist18.6548
+max_dist399.964
+Se ignoraron 97 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 129
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 245 keypoints T.
+SIFT - Se emparejaron 692
+min_dist18.8149
+max_dist399.917
+Se ignoraron 104 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 137
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 221 keypoints T.
+SIFT - Se emparejaron 692
+min_dist31.5119
+max_dist399.967
+Se ignoraron 99 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 112
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 247 keypoints T.
+SIFT - Se emparejaron 692
+min_dist18.6548
+max_dist399.879
+Se ignoraron 92 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 130
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 248 keypoints T.
+SIFT - Se emparejaron 692
+min_dist18.8149
+max_dist399.261
+Se ignoraron 108 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 133
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 225 keypoints T.
+SIFT - Se emparejaron 692
+min_dist31.5119
+max_dist399.967
+Se ignoraron 99 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 111
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 212 keypoints T.
+SIFT - Se emparejaron 692
+min_dist53.507
+max_dist399.944
+Se ignoraron 103 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 85
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 218 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.1246
+max_dist399.981
+Se ignoraron 107 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 99
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 228 keypoints T.
+SIFT - Se emparejaron 692
+min_dist19.2614
+max_dist399.94
+Se ignoraron 108 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 111
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 211 keypoints T.
+SIFT - Se emparejaron 692
+min_dist53.507
+max_dist399.944
+Se ignoraron 104 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 86
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 219 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.199
+max_dist399.842
+Se ignoraron 115 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 99
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 225 keypoints T.
+SIFT - Se emparejaron 692
+min_dist19.2614
+max_dist399.94
+Se ignoraron 116 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 109
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 212 keypoints T.
+SIFT - Se emparejaron 692
+min_dist53.507
+max_dist399.944
+Se ignoraron 111 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 85
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 641 keypoints T.
+SIFT - Se emparejaron 692
+min_dist3.74166
+max_dist399.997
+Se ignoraron 43 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 329
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 578 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.6882
+max_dist399.787
+Se ignoraron 66 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 251
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 558 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.6844
+max_dist399.959
+Se ignoraron 64 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 256
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 632 keypoints T.
+SIFT - Se emparejaron 692
+min_dist3.74166
+max_dist399.812
+Se ignoraron 49 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 326
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 574 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.6882
+max_dist399.869
+Se ignoraron 63 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 253
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 559 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.4272
+max_dist399.634
+Se ignoraron 74 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 249
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 641 keypoints T.
+SIFT - Se emparejaron 692
+min_dist3.74166
+max_dist399.997
+Se ignoraron 48 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 332
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 689 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist399.324
+Se ignoraron 12 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 535
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 657 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.4164
+max_dist399.392
+Se ignoraron 21 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 403
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 646 keypoints T.
+SIFT - Se emparejaron 692
+min_dist9.11043
+max_dist399.746
+Se ignoraron 22 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 402
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 692 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist398.535
+Se ignoraron 19 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 521
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 651 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.5647
+max_dist399.435
+Se ignoraron 26 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 400
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 645 keypoints T.
+SIFT - Se emparejaron 692
+min_dist9.11043
+max_dist399.831
+Se ignoraron 22 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 408
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 689 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist399.324
+Se ignoraron 13 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 532
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 671 keypoints T.
+SIFT - Se emparejaron 692
+min_dist7.68115
+max_dist399.676
+Se ignoraron 20 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 431
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 654 keypoints T.
+SIFT - Se emparejaron 692
+min_dist9.16515
+max_dist397.602
+Se ignoraron 18 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 434
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 712 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist394.36
+Se ignoraron 4 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 652
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 657 keypoints T.
+SIFT - Se emparejaron 692
+min_dist7.81025
+max_dist398.214
+Se ignoraron 22 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 425
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 643 keypoints T.
+SIFT - Se emparejaron 692
+min_dist9.16515
+max_dist399.385
+Se ignoraron 18 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 430
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 707 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist394.36
+Se ignoraron 1 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 671
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 698 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist398.851
+Se ignoraron 7 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 567
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 685 keypoints T.
+SIFT - Se emparejaron 692
+min_dist11.7898
+max_dist398.544
+Se ignoraron 23 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 414
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 651 keypoints T.
+SIFT - Se emparejaron 692
+min_dist10.7238
+max_dist399.411
+Se ignoraron 17 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 394
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 698 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist399.336
+Se ignoraron 9 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 557
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 671 keypoints T.
+SIFT - Se emparejaron 692
+min_dist11.7898
+max_dist399.019
+Se ignoraron 17 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 407
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 644 keypoints T.
+SIFT - Se emparejaron 692
+min_dist10.7238
+max_dist399.391
+Se ignoraron 19 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 401
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 698 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist398.851
+Se ignoraron 6 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 573
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 675 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist399.951
+Se ignoraron 20 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 415
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 653 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.1149
+max_dist399.886
+Se ignoraron 27 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 334
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 618 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.9332
+max_dist399.879
+Se ignoraron 31 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 307
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 682 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist398.119
+Se ignoraron 13 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 407
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 649 keypoints T.
+SIFT - Se emparejaron 692
+min_dist12.49
+max_dist399.652
+Se ignoraron 26 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 341
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 627 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.9332
+max_dist398.796
+Se ignoraron 29 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 315
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 675 keypoints T.
+SIFT - Se emparejaron 692
+min_dist0
+max_dist399.147
+Se ignoraron 18 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 413
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 544 keypoints T.
+SIFT - Se emparejaron 692
+min_dist33.1512
+max_dist399.526
+Se ignoraron 96 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 129
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 555 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.3159
+max_dist399.72
+Se ignoraron 96 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 97
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 548 keypoints T.
+SIFT - Se emparejaron 692
+min_dist42.3792
+max_dist399.237
+Se ignoraron 141 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 106
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 536 keypoints T.
+SIFT - Se emparejaron 692
+min_dist33.1512
+max_dist399.571
+Se ignoraron 83 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 123
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 556 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.3159
+max_dist399.969
+Se ignoraron 93 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 104
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 542 keypoints T.
+SIFT - Se emparejaron 692
+min_dist42.3792
+max_dist399.482
+Se ignoraron 147 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 107
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 544 keypoints T.
+SIFT - Se emparejaron 692
+min_dist33.1512
+max_dist399.917
+Se ignoraron 98 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 127
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 724 keypoints T.
+SIFT - Se emparejaron 692
+min_dist26.3629
+max_dist399.705
+Se ignoraron 36 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 214
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 713 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.0749
+max_dist399.94
+Se ignoraron 43 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 177
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 732 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.8924
+max_dist399.799
+Se ignoraron 36 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 197
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 728 keypoints T.
+SIFT - Se emparejaron 692
+min_dist26.3629
+max_dist399.705
+Se ignoraron 37 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 215
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 701 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.0499
+max_dist399.94
+Se ignoraron 38 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 177
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 730 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.8924
+max_dist399.442
+Se ignoraron 38 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 209
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 724 keypoints T.
+SIFT - Se emparejaron 692
+min_dist26.3629
+max_dist399.705
+Se ignoraron 41 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 209
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 777 keypoints T.
+SIFT - Se emparejaron 692
+min_dist27.8029
+max_dist399.706
+Se ignoraron 26 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 226
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 785 keypoints T.
+SIFT - Se emparejaron 692
+min_dist20.347
+max_dist399.406
+Se ignoraron 33 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 194
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 769 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.8924
+max_dist399.839
+Se ignoraron 25 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 207
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 782 keypoints T.
+SIFT - Se emparejaron 692
+min_dist27.8029
+max_dist398.565
+Se ignoraron 33 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 221
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 775 keypoints T.
+SIFT - Se emparejaron 692
+min_dist19.6214
+max_dist399.548
+Se ignoraron 33 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 194
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 777 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.8924
+max_dist399.081
+Se ignoraron 31 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 211
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 777 keypoints T.
+SIFT - Se emparejaron 692
+min_dist27.8029
+max_dist399.837
+Se ignoraron 25 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 226
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 763 keypoints T.
+SIFT - Se emparejaron 692
+min_dist29.8831
+max_dist399.864
+Se ignoraron 20 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 221
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 802 keypoints T.
+SIFT - Se emparejaron 692
+min_dist25.1992
+max_dist399.771
+Se ignoraron 32 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 193
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 781 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.8924
+max_dist399.393
+Se ignoraron 30 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 207
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 771 keypoints T.
+SIFT - Se emparejaron 692
+min_dist29.8831
+max_dist397.332
+Se ignoraron 24 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 219
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 791 keypoints T.
+SIFT - Se emparejaron 692
+min_dist25.1992
+max_dist399.16
+Se ignoraron 32 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 188
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 787 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.8924
+max_dist399.322
+Se ignoraron 33 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 209
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 763 keypoints T.
+SIFT - Se emparejaron 692
+min_dist29.8831
+max_dist399.864
+Se ignoraron 25 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 218
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 732 keypoints T.
+SIFT - Se emparejaron 692
+min_dist29.8831
+max_dist397.052
+Se ignoraron 37 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 190
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 737 keypoints T.
+SIFT - Se emparejaron 692
+min_dist25.3377
+max_dist399.991
+Se ignoraron 32 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 175
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 753 keypoints T.
+SIFT - Se emparejaron 692
+min_dist28.6356
+max_dist399.782
+Se ignoraron 39 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 179
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 735 keypoints T.
+SIFT - Se emparejaron 692
+min_dist29.8831
+max_dist399.769
+Se ignoraron 29 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 189
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 722 keypoints T.
+SIFT - Se emparejaron 692
+min_dist25.3377
+max_dist397.4
+Se ignoraron 39 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 172
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 758 keypoints T.
+SIFT - Se emparejaron 692
+min_dist28.6356
+max_dist399.861
+Se ignoraron 25 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 182
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 732 keypoints T.
+SIFT - Se emparejaron 692
+min_dist29.8831
+max_dist399.832
+Se ignoraron 43 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 187
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 449 keypoints T.
+SIFT - Se emparejaron 692
+min_dist39.4335
+max_dist399.797
+Se ignoraron 185 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 48
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 463 keypoints T.
+SIFT - Se emparejaron 692
+min_dist24.4949
+max_dist399.886
+Se ignoraron 150 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 55
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 502 keypoints T.
+SIFT - Se emparejaron 692
+min_dist38.2492
+max_dist399.144
+Se ignoraron 195 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 40
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 445 keypoints T.
+SIFT - Se emparejaron 692
+min_dist39.4335
+max_dist399.797
+Se ignoraron 158 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 46
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 462 keypoints T.
+SIFT - Se emparejaron 692
+min_dist24.4949
+max_dist399.922
+Se ignoraron 156 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 54
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 491 keypoints T.
+SIFT - Se emparejaron 692
+min_dist38.8201
+max_dist399.989
+Se ignoraron 175 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 35
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+Se detectaron 449 keypoints T.
+SIFT - Se emparejaron 692
+min_dist39.4335
+max_dist399.969
+Se ignoraron 182 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 48
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 802 keypoints T.
+SIFT - Se emparejaron 692
+min_dist33.1361
+max_dist399.203
+Se ignoraron 52 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 107
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 801 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.1774
+max_dist401.988
+Se ignoraron 52 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 104
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 783 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.6495
+max_dist399.966
+Se ignoraron 61 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 91
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 790 keypoints T.
+SIFT - Se emparejaron 692
+min_dist27.0185
+max_dist399.714
+Se ignoraron 49 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 107
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 784 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.3527
+max_dist399.986
+Se ignoraron 48 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 97
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 775 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.6495
+max_dist399.93
+Se ignoraron 71 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 90
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+Se detectaron 802 keypoints T.
+SIFT - Se emparejaron 692
+min_dist33.1361
+max_dist399.139
+Se ignoraron 57 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 109
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 838 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.8473
+max_dist399.422
+Se ignoraron 34 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 116
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 860 keypoints T.
+SIFT - Se emparejaron 692
+min_dist10.6301
+max_dist399.965
+Se ignoraron 42 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 118
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 861 keypoints T.
+SIFT - Se emparejaron 692
+min_dist11.4891
+max_dist399.408
+Se ignoraron 45 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 110
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 839 keypoints T.
+SIFT - Se emparejaron 692
+min_dist19.7484
+max_dist398.757
+Se ignoraron 34 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 115
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 837 keypoints T.
+SIFT - Se emparejaron 692
+min_dist12.49
+max_dist399.994
+Se ignoraron 37 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 117
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 859 keypoints T.
+SIFT - Se emparejaron 692
+min_dist13.2665
+max_dist399.945
+Se ignoraron 39 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 109
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+Se detectaron 838 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.8473
+max_dist399.621
+Se ignoraron 50 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 117
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 864 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.9565
+max_dist399.973
+Se ignoraron 43 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 113
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 865 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.8661
+max_dist399.443
+Se ignoraron 38 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 113
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 881 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.6525
+max_dist399.253
+Se ignoraron 36 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 112
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 857 keypoints T.
+SIFT - Se emparejaron 692
+min_dist21.8403
+max_dist399.905
+Se ignoraron 35 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 113
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 850 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.8661
+max_dist399.994
+Se ignoraron 33 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 113
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 873 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.6525
+max_dist399.089
+Se ignoraron 32 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 106
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+Se detectaron 864 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.9565
+max_dist399.973
+Se ignoraron 40 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 111
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 787 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.9565
+max_dist399.962
+Se ignoraron 42 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 94
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 812 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.8661
+max_dist397.793
+Se ignoraron 33 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 95
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 801 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.3623
+max_dist399.794
+Se ignoraron 36 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 94
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 788 keypoints T.
+SIFT - Se emparejaron 692
+min_dist28.9482
+max_dist399.169
+Se ignoraron 40 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 103
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 782 keypoints T.
+SIFT - Se emparejaron 692
+min_dist14.8661
+max_dist399.098
+Se ignoraron 38 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 92
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 785 keypoints T.
+SIFT - Se emparejaron 692
+min_dist15.5885
+max_dist399.802
+Se ignoraron 40 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 88
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+Se detectaron 787 keypoints T.
+SIFT - Se emparejaron 692
+min_dist22.9565
+max_dist399.66
+Se ignoraron 36 parejas por tener una distancia mayor a 20
+Parejas correctas con SIFT 96
+Total de transformaciones: 139
+Porcentaje de matching para SIFT: 31.8501
+SIFT descritor distance rage: [0, 397.937]

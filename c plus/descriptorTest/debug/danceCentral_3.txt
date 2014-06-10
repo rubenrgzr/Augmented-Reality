@@ -1,0 +1,2048 @@
+termino siftExtractor
+termino orbExtractor
+termino sufrExtractor
+Se detectaron 639 keypoints.
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 249 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 772 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 52
+Parejas correctas con SURF 115
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 250 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 775 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 63
+Parejas correctas con SURF 111
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 228 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 777 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 51
+Parejas correctas con SURF 131
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 249 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 772 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 52
+Parejas correctas con SURF 122
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 248 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 775 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 59
+Parejas correctas con SURF 110
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 231 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 777 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 50
+Parejas correctas con SURF 122
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 249 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 772 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 52
+Parejas correctas con SURF 119
+Total de transformaciones: 7
+Porcentaje de matching para SIFT: 11.236
+Porcentaje de matching para SURF: 18.5558
+Porcentaje de matching para ORB: 8.47306
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 296 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 742 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 57
+Parejas correctas con SURF 180
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 281 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 758 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 58
+Parejas correctas con SURF 139
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 265 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 763 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 46
+Parejas correctas con SURF 131
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 297 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 742 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 57
+Parejas correctas con SURF 179
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 283 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 757 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 56
+Parejas correctas con SURF 133
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 265 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 763 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 49
+Parejas correctas con SURF 132
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 296 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 742 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 57
+Parejas correctas con SURF 166
+Total de transformaciones: 14
+Porcentaje de matching para SIFT: 5.43807
+Porcentaje de matching para SURF: 21.1268
+Porcentaje de matching para ORB: 8.48424
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 343 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 741 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 49
+Parejas correctas con SURF 184
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 308 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 764 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 49
+Parejas correctas con SURF 138
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 301 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 760 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 39
+Parejas correctas con SURF 146
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 326 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 741 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 46
+Parejas correctas con SURF 175
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 308 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 764 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 48
+Parejas correctas con SURF 148
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 289 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 760 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 45
+Parejas correctas con SURF 150
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 343 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 741 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 49
+Parejas correctas con SURF 177
+Total de transformaciones: 21
+Porcentaje de matching para SIFT: 5.09666
+Porcentaje de matching para SURF: 22.416
+Porcentaje de matching para ORB: 8.0781
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 323 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 747 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 63
+Parejas correctas con SURF 169
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 304 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 766 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 43
+Parejas correctas con SURF 140
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 291 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 763 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 48
+Parejas correctas con SURF 139
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 318 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 747 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 53
+Parejas correctas con SURF 164
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 300 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 766 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 43
+Parejas correctas con SURF 145
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 285 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 763 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 50
+Parejas correctas con SURF 147
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 323 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 747 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 63
+Parejas correctas con SURF 179
+Total de transformaciones: 28
+Porcentaje de matching para SIFT: 4.36457
+Porcentaje de matching para SURF: 22.865
+Porcentaje de matching para ORB: 8.08741
+Rotando 0 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 319 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 764 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 54
+Parejas correctas con SURF 154
+Rotando 60 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 293 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 776 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 39
+Parejas correctas con SURF 133
+Rotando 120 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 284 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 780 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 38
+Parejas correctas con SURF 120
+Rotando 180 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 305 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 764 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 48
+Parejas correctas con SURF 149
+Rotando 240 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 300 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 776 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 36
+Parejas correctas con SURF 133
+Rotando 300 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 282 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 780 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 41
+Parejas correctas con SURF 120
+Rotando 360 grados 
+Escalando 0.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 319 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 764 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 54
+Parejas correctas con SURF 152
+Total de transformaciones: 35
+Porcentaje de matching para SIFT: 4.0724
+Porcentaje de matching para SURF: 22.5889
+Porcentaje de matching para ORB: 7.85603
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 646 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 662 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 6
+Parejas correctas con ORB 299
+Parejas correctas con SURF 281
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 554 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 760 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 151
+Parejas correctas con SURF 137
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 495 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 748 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 156
+Parejas correctas con SURF 147
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 648 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 664 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 5
+Parejas correctas con ORB 305
+Parejas correctas con SURF 284
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 561 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 760 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 157
+Parejas correctas con SURF 141
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 489 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 744 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 157
+Parejas correctas con SURF 146
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 646 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 663 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 6
+Parejas correctas con ORB 299
+Parejas correctas con SURF 281
+Total de transformaciones: 42
+Porcentaje de matching para SIFT: 4.16667
+Porcentaje de matching para SURF: 24.1039
+Porcentaje de matching para ORB: 12.2252
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 736 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 375 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 25
+Parejas correctas con ORB 451
+Parejas correctas con SURF 428
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 666 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 689 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 229
+Parejas correctas con SURF 186
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 598 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 684 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 5
+Parejas correctas con ORB 212
+Parejas correctas con SURF 211
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 734 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 383 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 30
+Parejas correctas con ORB 439
+Parejas correctas con SURF 415
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 680 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 689 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 5
+Parejas correctas con ORB 231
+Parejas correctas con SURF 204
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 611 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 682 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 6
+Parejas correctas con ORB 225
+Parejas correctas con SURF 233
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 736 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 375 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 25
+Parejas correctas con ORB 451
+Parejas correctas con SURF 429
+Total de transformaciones: 49
+Porcentaje de matching para SIFT: 5.09259
+Porcentaje de matching para SURF: 27.3865
+Porcentaje de matching para ORB: 17.6264
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 751 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 69 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 110
+Parejas correctas con ORB 639
+Parejas correctas con SURF 639
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 777 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 661 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 291
+Parejas correctas con SURF 228
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 730 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 640 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 282
+Parejas correctas con SURF 274
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 760 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 120 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 94
+Parejas correctas con ORB 595
+Parejas correctas con SURF 601
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 781 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 658 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 300
+Parejas correctas con SURF 239
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 707 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 642 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 283
+Parejas correctas con SURF 260
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 751 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 69 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 110
+Parejas correctas con ORB 639
+Parejas correctas con SURF 639
+Total de transformaciones: 56
+Porcentaje de matching para SIFT: 8.47726
+Porcentaje de matching para SURF: 32.0115
+Porcentaje de matching para ORB: 23.8878
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 752 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 225 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 79
+Parejas correctas con ORB 545
+Parejas correctas con SURF 522
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 742 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 675 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 284
+Parejas correctas con SURF 215
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 702 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 664 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 267
+Parejas correctas con SURF 261
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 762 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 254 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 73
+Parejas correctas con ORB 530
+Parejas correctas con SURF 505
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 751 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 677 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 297
+Parejas correctas con SURF 220
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 697 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 666 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 281
+Parejas correctas con SURF 254
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 752 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 225 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 79
+Parejas correctas con ORB 545
+Parejas correctas con SURF 523
+Total de transformaciones: 63
+Porcentaje de matching para SIFT: 9.2728
+Porcentaje de matching para SURF: 34.6648
+Porcentaje de matching para ORB: 28.0622
+Rotando 0 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 716 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 520 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 40
+Parejas correctas con ORB 458
+Parejas correctas con SURF 422
+Rotando 60 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 714 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 733 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 250
+Parejas correctas con SURF 184
+Rotando 120 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 674 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 733 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 258
+Parejas correctas con SURF 230
+Rotando 180 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 728 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 524 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 36
+Parejas correctas con ORB 451
+Parejas correctas con SURF 400
+Rotando 240 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 718 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 732 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 251
+Parejas correctas con SURF 195
+Rotando 300 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 657 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 731 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 264
+Parejas correctas con SURF 231
+Rotando 360 grados 
+Escalando 1 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 716 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 520 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 40
+Parejas correctas con ORB 458
+Parejas correctas con SURF 410
+Total de transformaciones: 70
+Porcentaje de matching para SIFT: 9.57676
+Porcentaje de matching para SURF: 35.8305
+Porcentaje de matching para ORB: 30.5992
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 507 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 42
+Parejas correctas con SURF 78
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 487 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 33
+Parejas correctas con SURF 61
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 473 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 28
+Parejas correctas con SURF 79
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 507 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 39
+Parejas correctas con SURF 82
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 484 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 36
+Parejas correctas con SURF 52
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 474 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 37
+Parejas correctas con SURF 81
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 507 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 42
+Parejas correctas con SURF 75
+Total de transformaciones: 77
+Porcentaje de matching para SIFT: 9.57676
+Porcentaje de matching para SURF: 33.6057
+Porcentaje de matching para ORB: 28.3397
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 642 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 775 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 82
+Parejas correctas con SURF 140
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 664 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 780 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 49
+Parejas correctas con SURF 106
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 657 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 65
+Parejas correctas con SURF 118
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 643 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 773 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 85
+Parejas correctas con SURF 136
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 645 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 779 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 50
+Parejas correctas con SURF 102
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 649 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 64
+Parejas correctas con SURF 118
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 642 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 775 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 82
+Parejas correctas con SURF 144
+Total de transformaciones: 84
+Porcentaje de matching para SIFT: 9.50879
+Porcentaje de matching para SURF: 32.4149
+Porcentaje de matching para ORB: 26.8668
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 737 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 754 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 99
+Parejas correctas con SURF 187
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 737 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 763 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 71
+Parejas correctas con SURF 124
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 720 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 771 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 75
+Parejas correctas con SURF 128
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 736 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 754 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 109
+Parejas correctas con SURF 171
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 721 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 760 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 68
+Parejas correctas con SURF 114
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 709 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 771 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 73
+Parejas correctas con SURF 133
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 737 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 754 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 3
+Parejas correctas con ORB 99
+Parejas correctas con SURF 182
+Total de transformaciones: 91
+Porcentaje de matching para SIFT: 9.45021
+Porcentaje de matching para SURF: 31.7082
+Porcentaje de matching para ORB: 25.8216
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 736 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 761 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 102
+Parejas correctas con SURF 174
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 734 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 767 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 63
+Parejas correctas con SURF 124
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 736 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 771 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 77
+Parejas correctas con SURF 134
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 734 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 765 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 5
+Parejas correctas con ORB 108
+Parejas correctas con SURF 172
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 720 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 767 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 65
+Parejas correctas con SURF 120
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 729 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 772 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 74
+Parejas correctas con SURF 130
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 736 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 761 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 4
+Parejas correctas con ORB 102
+Parejas correctas con SURF 171
+Total de transformaciones: 98
+Porcentaje de matching para SIFT: 9.44257
+Porcentaje de matching para SURF: 31.0801
+Porcentaje de matching para ORB: 24.921
+Rotando 0 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 698 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 104
+Parejas correctas con SURF 163
+Rotando 60 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 708 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 68
+Parejas correctas con SURF 98
+Rotando 120 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 697 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 70
+Parejas correctas con SURF 122
+Rotando 180 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 686 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 92
+Parejas correctas con SURF 153
+Rotando 240 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 692 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 66
+Parejas correctas con SURF 108
+Rotando 300 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 703 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 75
+Parejas correctas con SURF 119
+Rotando 360 grados 
+Escalando 1.5 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 698 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 104
+Parejas correctas con SURF 158
+Total de transformaciones: 105
+Porcentaje de matching para SIFT: 9.44745
+Porcentaje de matching para SURF: 30.3808
+Porcentaje de matching para ORB: 24.1225
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 439 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 12
+Parejas correctas con SURF 44
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 392 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 9
+Parejas correctas con SURF 29
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 396 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 10
+Parejas correctas con SURF 39
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 445 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 11
+Parejas correctas con SURF 42
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 389 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 6
+Parejas correctas con SURF 34
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 411 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 10
+Parejas correctas con SURF 34
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo -100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 439 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 12
+Parejas correctas con SURF 39
+Total de transformaciones: 112
+Porcentaje de matching para SIFT: 9.44745
+Porcentaje de matching para SURF: 28.8467
+Porcentaje de matching para ORB: 22.7127
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 583 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 776 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 21
+Parejas correctas con SURF 66
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 579 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 12
+Parejas correctas con SURF 63
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 579 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 10
+Parejas correctas con SURF 57
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 595 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 777 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 24
+Parejas correctas con SURF 69
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 560 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 13
+Parejas correctas con SURF 59
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 574 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 12
+Parejas correctas con SURF 59
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo -50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 583 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 776 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 21
+Parejas correctas con SURF 69
+Total de transformaciones: 119
+Porcentaje de matching para SIFT: 9.44169
+Porcentaje de matching para SURF: 27.7311
+Porcentaje de matching para ORB: 21.5252
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 668 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 773 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 19
+Parejas correctas con SURF 80
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 671 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 14
+Parejas correctas con SURF 62
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 660 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 10
+Parejas correctas con SURF 71
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 684 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 768 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 5
+Parejas correctas con ORB 18
+Parejas correctas con SURF 82
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 669 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 13
+Parejas correctas con SURF 60
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 637 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 780 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 10
+Parejas correctas con SURF 66
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo 0 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 668 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 773 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 19
+Parejas correctas con SURF 78
+Total de transformaciones: 126
+Porcentaje de matching para SIFT: 9.47233
+Porcentaje de matching para SURF: 26.8102
+Porcentaje de matching para ORB: 20.4573
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 646 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 774 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 16
+Parejas correctas con SURF 75
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 664 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 784 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 13
+Parejas correctas con SURF 70
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 645 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 781 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 12
+Parejas correctas con SURF 65
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 659 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 771 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 2
+Parejas correctas con ORB 19
+Parejas correctas con SURF 75
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 660 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 785 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 13
+Parejas correctas con SURF 58
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 625 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 1
+Parejas correctas con ORB 12
+Parejas correctas con SURF 60
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo 50 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 646 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 774 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 16
+Parejas correctas con SURF 75
+Total de transformaciones: 133
+Porcentaje de matching para SIFT: 9.45644
+Porcentaje de matching para SURF: 25.9616
+Porcentaje de matching para ORB: 19.4995
+Rotando 0 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 606 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 781 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 18
+Parejas correctas con SURF 65
+Rotando 60 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 604 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 17
+Parejas correctas con SURF 43
+Rotando 120 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 600 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 786 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 15
+Parejas correctas con SURF 59
+Rotando 180 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 595 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 782 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 20
+Parejas correctas con SURF 61
+Rotando 240 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 604 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 787 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 14
+Parejas correctas con SURF 49
+Rotando 300 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 583 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 786 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 12
+Parejas correctas con SURF 58
+Rotando 360 grados 
+Escalando 2 
+Cambiando brillo 100 
+termino siftExtractor T
+termino orbExtractor T
+termino sufrExtractor T
+Se detectaron 606 keypoints T.
+ORB - Se emparejaron 639
+SIFT - Se emparejaron 787
+SURF - Se emparejaron 639
+Se ignoraron 781 parejas por tener una distancia mayor a 10
+Parejas correctas con SIFT 0
+Parejas correctas con ORB 18
+Parejas correctas con SURF 66
+Total de transformaciones: 140
+Porcentaje de matching para SIFT: 9.43737
+Porcentaje de matching para SURF: 25.1118
+Porcentaje de matching para ORB: 18.6519
+Total de transformaciones: 140
+Porcentaje de matching para SIFT: 9.43737
+Porcentaje de matching para SURF: 25.1118
+Porcentaje de matching para ORB: 18.6519

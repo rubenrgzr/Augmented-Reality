@@ -1,0 +1,42 @@
+<html>
+<head><title>Realidad aumentada</title></head>
+
+ <script src="./js/jquery.js"></script>
+
+ <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+ 
+ <script src="./js/main.js"></script>
+ 
+<link href="./css/main.css" rel="stylesheet" type="text/css">
+		
+<body>
+<div id="main">
+	<div id="controls">
+		<div id="capture" class="button">
+			Capture
+		</div>
+		<div id="loadButton" onclick='$("#load").click()'  class="button">
+			Subir foto	   
+		</div>
+	</div>
+	<div class="base">
+		<img id="snapshot" src="">
+		<div class="video">
+			<video autoplay></video>	
+			<canvas style="display:none;"></canvas>
+			
+		</div>
+		
+
+		
+	<input id="load" type="file" onchange="readImage(this)" class="custom-file-input">
+	</div>
+
+	<div id="results">
+		<div id="chart_hist"  style="width: 500px; height: 250px;"> </div>
+		<div id="norm" > </div>
+	</div>
+</div>
+<script>ini();</script>
+</body>
+</html>

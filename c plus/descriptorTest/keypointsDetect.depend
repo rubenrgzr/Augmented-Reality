@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1394483656 source:c:\users\rubs\dropbox\maestría\ar\software\kepointsdetect\keypointsdetect\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/nonfree/features2d.hpp"
+
